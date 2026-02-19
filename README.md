@@ -1,2 +1,6 @@
-# Exploratory-Analysis-of-Rain-Fall-Data-in-India-for-Agriculture
-In this project, we use classification algorithms such as Decision Tree, Random Forest, Support Vector Machine (SVM), Gradient Boosting, and XGBoost. The best-performing model is selected based on accuracy and evaluation metrics and saved in .pkl format. The model is integrated into a Flask web application and deployed for real-time prediction.
+# Exploratory_Analysis_of_Rain_Fall_Data_in_India_for_Agriculture
+The Rainfall Prediction System is a Machine Learning web application that predicts whether it will rain tomorrow based on historical weather data.
+
+This project uses the WeatherAUS dataset and applies data preprocessing, exploratory data analysis (EDA), feature engineering, and classification algorithms to build an accurate rainfall prediction model.
+
+The trained model is deployed using the Flask web framework, allowing users to input weather conditions and receive real-time predictions.
