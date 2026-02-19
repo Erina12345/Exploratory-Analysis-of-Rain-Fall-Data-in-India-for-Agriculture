@@ -1,0 +1,10 @@
+��9      }��Location��sklearn.preprocessing._label��LabelEncoder���)��}�(�classes_��numpy._core.multiarray��_reconstruct����numpy��ndarray���K ��Cb���R�(KK2��h�dtype����O8�����R�(K�|�NNNJ����J����K?t�b�]�(�Adelaide��Albany��Albury��AliceSprings��
+BadgerysCreek��Ballarat��Bendigo��Brisbane��Cairns��Canberra��Cobar��CoffsHarbour��Dartmoor��Darwin��Delhi��	GoldCoast��Hobart��	Katherine��
+Launceston��	Melbourne��MelbourneAirport��Mildura��Moree��MountGambier��MountGinini��	Newcastle��Nhil��	NorahHead��
+NorfolkIsland��	Nuriootpa��
+PearceRAAF��Penrith��Perth��PerthAirport��Portland��Richmond��Sale��
+SalmonGums��Sydney��
+SydneyAirport��
+Townsville��Tuggeranong��Uluru��
+WaggaWagga��Walpole��Watsonia��Williamtown��Witchcliffe��
+Wollongong��Woomera�et�b�_sklearn_version��1.6.1�ubs.
