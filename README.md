@@ -1,0 +1,2 @@
+# Exploratory-Analysis-of-Rain-Fall-Data-in-India-for-Agriculture
+In this project, we use classification algorithms such as Decision Tree, Random Forest, Support Vector Machine (SVM), Gradient Boosting, and XGBoost. The best-performing model is selected based on accuracy and evaluation metrics and saved in .pkl format. The model is integrated into a Flask web application and deployed for real-time prediction.
